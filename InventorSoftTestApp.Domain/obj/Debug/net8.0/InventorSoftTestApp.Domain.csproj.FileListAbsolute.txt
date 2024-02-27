@@ -1,0 +1,14 @@
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/bin/Debug/net8.0/InventorSoftTestApp.Domain.deps.json
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/bin/Debug/net8.0/InventorSoftTestApp.Domain.runtimeconfig.json
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/bin/Debug/net8.0/InventorSoftTestApp.Domain.dll
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/bin/Debug/net8.0/InventorSoftTestApp.Domain.pdb
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/InventorSoftTestApp.Domain.csproj.AssemblyReference.cache
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/InventorSoftTestApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/InventorSoftTestApp.Domain.AssemblyInfoInputs.cache
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/InventorSoftTestApp.Domain.AssemblyInfo.cs
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/InventorSoftTestApp.Domain.csproj.CoreCompileInputs.cache
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/InventorSoftTestApp.Domain.dll
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/refint/InventorSoftTestApp.Domain.dll
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/InventorSoftTestApp.Domain.pdb
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/InventorSoftTestApp.Domain.genruntimeconfig.cache
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Domain/obj/Debug/net8.0/ref/InventorSoftTestApp.Domain.dll

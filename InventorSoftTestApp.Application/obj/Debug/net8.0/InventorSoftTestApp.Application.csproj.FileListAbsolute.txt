@@ -1,0 +1,15 @@
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/bin/Debug/net8.0/InventorSoftTestApp.Application.deps.json
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/bin/Debug/net8.0/InventorSoftTestApp.Application.dll
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/bin/Debug/net8.0/InventorSoftTestApp.Application.pdb
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/bin/Debug/net8.0/InventorSoftTestApp.Domain.dll
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/bin/Debug/net8.0/InventorSoftTestApp.Domain.pdb
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/InventorSoftTestApp.Application.csproj.AssemblyReference.cache
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/InventorSoftTestApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/InventorSoftTestApp.Application.AssemblyInfoInputs.cache
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/InventorSoftTestApp.Application.AssemblyInfo.cs
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/InventorSoftTestApp.Application.csproj.CoreCompileInputs.cache
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/InventorSoftTestApp.Application.csproj.CopyComplete
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/InventorSoftTestApp.Application.dll
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/refint/InventorSoftTestApp.Application.dll
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/InventorSoftTestApp.Application.pdb
+/home/user/Documents/Files/TestProjects/InventorSoftTestApp/InventorSoftTestApp.Application/obj/Debug/net8.0/ref/InventorSoftTestApp.Application.dll

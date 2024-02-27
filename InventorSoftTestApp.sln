@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorSoftTestApp.Host", "InventorSoftTestApp.Host\InventorSoftTestApp.Host.csproj", "{8030EA30-132C-4BEE-916B-724B940124F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorSoftTestApp.Application", "InventorSoftTestApp.Application\InventorSoftTestApp.Application.csproj", "{CD2A2D2E-FD3C-4C45-9BA2-4AB3A1C74AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorSoftTestApp.Domain", "InventorSoftTestApp.Domain\InventorSoftTestApp.Domain.csproj", "{06396466-93AE-43E1-AE1C-45156A4FFA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8030EA30-132C-4BEE-916B-724B940124F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8030EA30-132C-4BEE-916B-724B940124F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8030EA30-132C-4BEE-916B-724B940124F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8030EA30-132C-4BEE-916B-724B940124F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2A2D2E-FD3C-4C45-9BA2-4AB3A1C74AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2A2D2E-FD3C-4C45-9BA2-4AB3A1C74AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2A2D2E-FD3C-4C45-9BA2-4AB3A1C74AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2A2D2E-FD3C-4C45-9BA2-4AB3A1C74AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06396466-93AE-43E1-AE1C-45156A4FFA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06396466-93AE-43E1-AE1C-45156A4FFA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06396466-93AE-43E1-AE1C-45156A4FFA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06396466-93AE-43E1-AE1C-45156A4FFA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
