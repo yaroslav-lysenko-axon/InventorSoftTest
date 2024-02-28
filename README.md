@@ -35,10 +35,11 @@
 ![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/987aceca-17ab-4609-bb2e-e60a24d915c8)
 
 5) User table:
-![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/0528496e-946f-4069-af12-fba446719dec)
+<br>![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/0528496e-946f-4069-af12-fba446719dec)
 
 6) Task table:
-![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/2ab31206-936e-4d2a-9472-f635fafca888)
+<br>![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/52c20fb8-c5f8-4acf-b8c7-e6e11e68c182)
+
 
 
 
