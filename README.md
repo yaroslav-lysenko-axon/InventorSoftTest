@@ -21,13 +21,25 @@
 - A task can be assigned to the same user, but cannot be assigned 2 times in a row;
 - A task will be considered 'Completed' and stay unassigned the next time the background job is started after it has been assigned to users 3 times.
 
-**Screenshoots:**
+**Local screenshoots:**
 1) Create task:
+![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/e59ed42a-f662-4684-810c-c860a12b2237)
 
 2) Get tasks:
+![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/afcba727-409a-4069-84c1-02fd182b073a)
 
 3) Create user:
+![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/a10b73be-f38b-4ef7-ac58-4c21f8594eb4)
 
 4) Get users:
+![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/987aceca-17ab-4609-bb2e-e60a24d915c8)
+
+5) User table:
+![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/0528496e-946f-4069-af12-fba446719dec)
+
+6) Task table:
+![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/2ab31206-936e-4d2a-9472-f635fafca888)
+
+
 
 
