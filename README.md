@@ -23,11 +23,11 @@
 
 **Screenshoots:**
 1) Create task:
-![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/76dd3633-b560-4a51-953b-243f8e55066b)
+
 2) Get tasks:
-![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/4a83ce7c-e6f8-4307-981f-23b222ff7612)
+
 3) Create user:
-![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/62b2f5cf-990b-4beb-b52d-74c4383e6070)
+
 4) Get users:
-![image](https://github.com/yaroslav-lysenko-axon/InventorSoftTest/assets/88324041/cea90efd-0df2-44b7-8d3f-02f061f6f4bf)
+
 
