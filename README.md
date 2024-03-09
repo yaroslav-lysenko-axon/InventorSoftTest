@@ -15,7 +15,7 @@
 **Also I have added here the background job via hangfire. There is logic for the follow requirements:**
  - Every 2 minutes all tasks should be reassigned to another random user (it can’t be the user which is already assigned to the task);
  - When no users are available the Task will stay without assigned user;
- - All task have to be transferred for exactly 3 times, after that, they should be considered completed and stay unassigned.
+ - All tasks have to be transferred for exactly 3 times, after that, they should be considered completed and stay unassigned.
 
 **And I made a decision about the next cases by myself:**
 - A task can be assigned to the same user, but cannot be assigned 2 times in a row;
