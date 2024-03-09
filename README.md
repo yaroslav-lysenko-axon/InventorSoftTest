@@ -10,7 +10,7 @@
 1. Create task (POST);
 2. Get tasks (GET);
 3. Create user (POST);
-4. Get user (GET);
+4. Get users (GET);
 
 **Also I have added here the background job via hangfire. There is logic for the follow requirements:**
  - Every 2 minutes all tasks should be reassigned to another random user (it can’t be the user which is already assigned to the task);
